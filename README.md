@@ -50,8 +50,8 @@ pip install requests
 下载运行
 bash
 # 克隆仓库
-git clone https://github.com/yourusername/bili-downloader.git
-cd bili-downloader
+git clone https://github.com/zhongjunlee/bilibili-video-downloader.git
+cd bilibili-video-downloader
 
 # 运行程序
 python bili_downloader.py
